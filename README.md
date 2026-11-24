@@ -1,9 +1,9 @@
-<picture>
+ #hai there  ♡
+ 
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
   <img alt="scarlett's room: cs & business at northeastern, frontend + product design" src="header-dark.svg" width="100%">
 </picture>
-
-# hai there  ♡
 
 ### i'm scarlett ૮꒰ ˶• ༝ •˶꒱ა ♡ ~ !
 
