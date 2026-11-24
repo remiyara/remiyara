@@ -5,7 +5,7 @@
   <img alt="scarlett's room: cs & business at northeastern, frontend + product design" src="header-dark.svg" width="100%">
 </picture>
 
-### i'm scarlett ૮꒰ ˶• ༝ •˶꒱ა ♡ ~ !
+### i'm scarlett ૮꒰ ˶• ༝ •˶꒱ა ♡ ~ 
 
 i'm a computer science and business administration student at northeastern who likes building things that are both functional and cute. previously @ fidelity, i worked on the frontend of bond beacon, an institutional bond trading platform. outside of class, you can find me building side projects abt music and coffee, competing in valorant, or listening to way too much spotify.
 
