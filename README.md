@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="scarlett's room: cs & business at northeastern, frontend + product design" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img alt="scarlett's room: cs & business at northeastern, frontend + product design" src="header-light.svg" width="100%">
 </picture>
 
 # hai there,
@@ -16,8 +16,6 @@ i'm a computer science and business administration student at northeastern who l
 
 - **[harmonize](https://harmonize-tau.vercel.app/)** connects your spotify with a friend's and scores how compatible your music taste is
 - **[stardrinks](https://stardrinks-he2o.vercel.app/)** helps you find local coffee spots and save your favorites
-- **stardrinks** helps you find local coffee spots and save your favorites
-- **harmonize** connects your spotify with a friend's and scores how compatible your music taste is
 - **wishes** is a wishlist shopping mobile app that is currently in progress...
 
 ### tech stack ⋆｡°✩⋆
@@ -25,7 +23,7 @@ i'm a computer science and business administration student at northeastern who l
 ![TypeScript](https://img.shields.io/badge/typescript-26222d?style=for-the-badge&logo=typescript&logoColor=f2a7c3)
 ![JavaScript](https://img.shields.io/badge/javascript-26222d?style=for-the-badge&logo=javascript&logoColor=f2a7c3)
 ![Python](https://img.shields.io/badge/python-26222d?style=for-the-badge&logo=python&logoColor=f2a7c3)
-![Java](https://img.shields.io/badge/java-26222d?style=for-the-badge&logoColor=f2a7c3)
+![Java](https://img.shields.io/badge/java-26222d?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZjJhN2MzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTggMmMtMSAxLjUgMSAyLjUgMCA0TTEyIDJjLTEgMS41IDEgMi41IDAgNCIvPjxwYXRoIGQ9Ik00IDloMTJ2NWE1IDUgMCAwIDEtNSA1SDlhNSA1IDAgMCAxLTUtNXoiLz48cGF0aCBkPSJNMTYgMTBoMS41YTIuNSAyLjUgMCAwIDEgMCA1SDE2Ii8%2BPHBhdGggZD0iTTMgMjJoMTUiLz48L2c%2BPC9zdmc%2B)
 ![SQL](https://img.shields.io/badge/sql-26222d?style=for-the-badge&logo=postgresql&logoColor=f2a7c3)
 ![HTML](https://img.shields.io/badge/html-26222d?style=for-the-badge&logo=html5&logoColor=f2a7c3)
 ![CSS](https://img.shields.io/badge/css-26222d?style=for-the-badge&logo=css&logoColor=f2a7c3)
@@ -39,6 +37,6 @@ i'm a computer science and business administration student at northeastern who l
 
 ### say hi ₍ᐢ. .ᐢ₎
 
-<a href="https://www.linkedin.com/in/scarlettlentinimojcher/"><img src="badge-linkedin.svg" alt="LinkedIn"></a>
-<a href="https://github.com/remiyara"><img src="badge-github.svg" alt="GitHub"></a>
-<a href="mailto:lentinimojcher.s@northeastern.edu"><img src="badge-email.svg" alt="Email"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-f2a7c3?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iIzI2MjIyZCIvPjxyZWN0IHg9IjUuNSIgeT0iMTAiIHdpZHRoPSIzIiBoZWlnaHQ9IjguNSIgZmlsbD0iI2YyYTdjMyIvPjxjaXJjbGUgY3g9IjciIGN5PSI2LjgiIHI9IjEuOCIgZmlsbD0iI2YyYTdjMyIvPjxwYXRoIGQ9Ik0xMSAxMGgyLjh2MS4zYy42LTEgMS43LTEuNSAzLTEuNSAyLjMgMCAzLjIgMS40IDMuMiA0djQuN2gtM3YtNC4yYzAtMS4yLS40LTEuOS0xLjQtMS45cy0xLjYuNy0xLjYgMS45djQuMmgtM3oiIGZpbGw9IiNmMmE3YzMiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/scarlettlentinimojcher/)
+[![GitHub](https://img.shields.io/badge/github-f2a7c3?style=for-the-badge&logo=github&logoColor=26222d)](https://github.com/remiyara)
+[![Email](https://img.shields.io/badge/email-f2a7c3?style=for-the-badge&logo=gmail&logoColor=26222d)](mailto:lentinimojcher.s@northeastern.edu)
