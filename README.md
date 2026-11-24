@@ -3,7 +3,7 @@
   <img alt="scarlett's room: cs & business at northeastern, frontend + product design" src="assets/header-light.svg" width="100%">
 </picture>
 
-# hi there,
+# hai there,
 
 ### i'm scarlett ૮꒰ ˶• ༝ •˶꒱ა ♡ ~ !
 
