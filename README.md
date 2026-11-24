@@ -37,6 +37,8 @@ i'm a computer science and business administration student at northeastern who l
 
 ### say hi ₍ᐢ. .ᐢ₎
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-f2a7c3?style=for-the-badge&logoColor=26222d)]([https://www.linkedin.com/in/YOUR-URL](https://www.linkedin.com/in/scarlettlentinimojcher)
+### say hi ₍ᐢ. .ᐢ₎
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-f2a7c3?style=for-the-badge&logoColor=26222d)](https://www.linkedin.com/in/scarlettlentinimojcher/)
 [![GitHub](https://img.shields.io/badge/github-f2a7c3?style=for-the-badge&logo=github&logoColor=26222d)](https://github.com/remiyara)
-[![Email](https://img.shields.io/badge/email-f2a7c3?style=for-the-badge&logo=gmail&logoColor=26222d)](mailto:slentinimojcher@gmail.com)
+[![Email](https://img.shields.io/badge/email-f2a7c3?style=for-the-badge&logo=gmail&logoColor=26222d)](mailto:lentinimojcher.s@northeastern.edu)
