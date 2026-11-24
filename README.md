@@ -7,7 +7,7 @@
 
 ### i'm scarlett ૮꒰ ˶• ༝ •˶꒱ა ♡ ~ !
 
-i'm a computer science and business administration student at northeastern who likes building things both functional and cute. prev @ fidelity, i worked on maintaining the front end of bond beacon, an institutional bond trading platform. outside of class, you can find me building side projects about music and coffee preference, competing in valorant, and listening to way too much spotify.
+i'm a computer science and business administration student at northeastern who likes building things that are both functional and cute. previously @ fidelity, i worked on the frontend of bond beacon, an institutional bond trading platform. outside of class, you can find me building side projects abt music and coffee, competing in valorant, or listening to way too much spotify.
 
 ### projects ⋆｡°✩
 
