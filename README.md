@@ -9,11 +9,13 @@
 
 i'm a computer science and business administration student at northeastern who likes building things both functional and cute. prev @ fidelity, i worked on maintaining the front end of bond beacon, an institutional bond trading platform. outside of class, you can find me building side projects about music and coffee preference, competing in valorant, and listening to way too much spotify.
 
-### projects ‧°𓏲ּ𝄢⋆˚꩜｡
+### projects ⋆｡°✩
 
-<a href="https://harmonize-tau.vercel.app"><img src="assets/card-harmonize.svg" width="230" alt="Harmonize: Spotify music-taste compatibility app"></a>
-<a href="LINK"><img src="assets/card-stardrinks.svg" width="230" alt="Stardrinks: coffee café finder"></a>
+<a href="https://harmonize-tau.vercel.app/"><img src="card-harmonize.svg" width="230" alt="Harmonize: Spotify music-taste compatibility app"></a>
+<a href="https://stardrinks-he2o.vercel.app/"><img src="card-stardrinks.svg" width="230" alt="Stardrinks: coffee café finder"></a>
 
+- **[harmonize](https://harmonize-tau.vercel.app/)** connects your spotify with a friend's and scores how compatible your music taste is
+- **[stardrinks](https://stardrinks-he2o.vercel.app/)** helps you find local coffee spots and save your favorites
 - **stardrinks** helps you find local coffee spots and save your favorites
 - **harmonize** connects your spotify with a friend's and scores how compatible your music taste is
 - **wishes** is a wishlist shopping mobile app that is currently in progress...
@@ -37,6 +39,6 @@ i'm a computer science and business administration student at northeastern who l
 
 ### say hi ₍ᐢ. .ᐢ₎
 
-<a href="https://www.linkedin.com/in/scarlettlentinimojcher/"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
-<a href="https://github.com/remiyara"><img src="assets/badge-github.svg" alt="GitHub"></a>
-<a href="mailto:lentinimojcher.s@northeastern.edu"><img src="assets/badge-email.svg" alt="Email"></a>
+<a href="https://www.linkedin.com/in/scarlettlentinimojcher/"><img src="badge-linkedin.svg" alt="LinkedIn"></a>
+<a href="https://github.com/remiyara"><img src="badge-github.svg" alt="GitHub"></a>
+<a href="mailto:lentinimojcher.s@northeastern.edu"><img src="badge-email.svg" alt="Email"></a>
