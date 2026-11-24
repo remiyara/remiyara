@@ -34,7 +34,8 @@ i'm a computer science and business administration student at northeastern who l
 ![Vercel](https://img.shields.io/badge/vercel-26222d?style=for-the-badge&logo=vercel&logoColor=f2a7c3)
 ![Git](https://img.shields.io/badge/git-26222d?style=for-the-badge&logo=git&logoColor=f2a7c3)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake-light.svg">
-</picture>
+### say hi ₍ᐢ. .ᐢ₎
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-f2a7c3?style=for-the-badge&logo=linkedin&logoColor=26222d)](https://www.linkedin.com/in/YOUR-URL)
+[![Portfolio](https://img.shields.io/badge/scarlett's%20room-f2a7c3?style=for-the-badge&logo=googlechrome&logoColor=26222d)](https://YOUR-SITE)
+[![Email](https://img.shields.io/badge/email-f2a7c3?style=for-the-badge&logo=gmail&logoColor=26222d)](mailto:lentinimojcher.s@northeastern.edu)
