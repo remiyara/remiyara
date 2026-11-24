@@ -20,13 +20,13 @@ i'm a computer science and business administration student at northeastern who l
 
 ### tech stack ⋆｡°✩⋆
 
-![TypeScript](https://img.shields.io/badge/typescript-f2a7c3?style=for-the-badge&logo=typescript&logoColor=26222d&labelColor=f2a7c3)
-![JavaScript](https://img.shields.io/badge/javascript-f2a7c3?style=for-the-badge&logo=javascript&logoColor=26222d)
-![Python](https://img.shields.io/badge/python-f2a7c3?style=for-the-badge&logo=python&logoColor=26222d)
-![Java](https://img.shields.io/badge/java-f2a7c3?style=for-the-badge&logo=openjdk&logoColor=26222d)
-![SQL](https://img.shields.io/badge/sql-f2a7c3?style=for-the-badge&logo=postgresql&logoColor=26222d)
-![HTML](https://img.shields.io/badge/html-f2a7c3?style=for-the-badge&logo=html5&logoColor=26222d)
-![CSS](https://img.shields.io/badge/css-f2a7c3?style=for-the-badge&logo=css&logoColor=26222d)
+![TypeScript](https://img.shields.io/badge/typescript-26222d?style=for-the-badge&logo=typescript&logoColor=f2a7c3)
+![JavaScript](https://img.shields.io/badge/javascript-26222d?style=for-the-badge&logo=javascript&logoColor=f2a7c3)
+![Python](https://img.shields.io/badge/python-26222d?style=for-the-badge&logo=python&logoColor=f2a7c3)
+![Java](https://img.shields.io/badge/java-26222d?style=for-the-badge&logo=openjdk&logoColor=f2a7c3)
+![SQL](https://img.shields.io/badge/sql-26222d?style=for-the-badge&logo=postgresql&logoColor=f2a7c3)
+![HTML](https://img.shields.io/badge/html-26222d?style=for-the-badge&logo=html5&logoColor=f2a7c3)
+![CSS](https://img.shields.io/badge/css-26222d?style=for-the-badge&logo=css&logoColor=f2a7c3)
 <br>
 ![React](https://img.shields.io/badge/react-26222d?style=for-the-badge&logo=react&logoColor=f2a7c3)
 ![Next.js](https://img.shields.io/badge/next.js-26222d?style=for-the-badge&logo=nextdotjs&logoColor=f2a7c3)
@@ -37,6 +37,6 @@ i'm a computer science and business administration student at northeastern who l
 
 ### say hi ₍ᐢ. .ᐢ₎
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-c2577f?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/scarlettlentinimojcher/)
-[![GitHub](https://img.shields.io/badge/github-c2577f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remiyara)
-[![Email](https://img.shields.io/badge/email-c2577f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lentinimojcher.s@northeastern.edu)
+<a href="https://www.linkedin.com/in/scarlettlentinimojcher/"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
+<a href="https://github.com/remiyara"><img src="assets/badge-github.svg" alt="GitHub"></a>
+<a href="mailto:lentinimojcher.s@northeastern.edu"><img src="assets/badge-email.svg" alt="Email"></a>
