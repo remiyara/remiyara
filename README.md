@@ -14,8 +14,8 @@ i'm a computer science and business administration student at northeastern who l
 <a href="https://harmonize-tau.vercel.app"><img src="assets/card-harmonize.svg" width="230" alt="Harmonize: Spotify music-taste compatibility app"></a>
 <a href="LINK"><img src="assets/card-stardrinks.svg" width="230" alt="Stardrinks: coffee café finder"></a>
 
-**harmonize** connects your spotify with a friend's and scores how compatible your music taste is.
-**stardrinks** helps you find local coffee spots and save your favorites.
+- **harmonize** connects your spotify with a friend's and scores how compatible your music taste is
+- **stardrinks** helps you find local coffee spots and save your favorites
 
 ### tech stack ⋆｡°✩⋆
 
@@ -36,6 +36,7 @@ i'm a computer science and business administration student at northeastern who l
 
 ### say hi ₍ᐢ. .ᐢ₎
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-f2a7c3?style=for-the-badge&logo=linkedin&logoColor=26222d)](https://www.linkedin.com/in/YOUR-URL)
-[![Portfolio](https://img.shields.io/badge/scarlett's%20room-f2a7c3?style=for-the-badge&logo=googlechrome&logoColor=26222d)](https://YOUR-SITE)
-[![Email](https://img.shields.io/badge/email-f2a7c3?style=for-the-badge&logo=gmail&logoColor=26222d)](mailto:lentinimojcher.s@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-f2a7c3?style=for-the-badge&logo=linkedin&logoColor=26222d)](https://[www.linkedin.com/in/YOUR-URL](https://www.linkedin.com/in/scarlettlentinimojcher/))
+[![GitHub](https://img.shields.io/badge/github-f2a7c3?style=for-the-badge&logo=github&logoColor=26222d)](https://github.com/remiyara)
+[![Portfolio](https://img.shields.io/badge/scarlett's%20room-f2a7c3?style=for-the-badge&logo=googlechrome&logoColor=26222d)](https://scarletts-room.vercel.app/)
+[![Email](https://img.shields.io/badge/email-f2a7c3?style=for-the-badge&logo=gmail&logoColor=26222d)](mailto:slentinimojcher@gmail.com)
