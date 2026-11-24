@@ -23,7 +23,7 @@ i'm a computer science and business administration student at northeastern who l
 ![TypeScript](https://img.shields.io/badge/typescript-26222d?style=for-the-badge&logo=typescript&logoColor=f2a7c3)
 ![JavaScript](https://img.shields.io/badge/javascript-26222d?style=for-the-badge&logo=javascript&logoColor=f2a7c3)
 ![Python](https://img.shields.io/badge/python-26222d?style=for-the-badge&logo=python&logoColor=f2a7c3)
-![Java](https://img.shields.io/badge/java-26222d?style=for-the-badge&logo=openjdk&logoColor=f2a7c3)
+![Java](https://img.shields.io/badge/java-26222d?style=for-the-badge&logoColor=f2a7c3)
 ![SQL](https://img.shields.io/badge/sql-26222d?style=for-the-badge&logo=postgresql&logoColor=f2a7c3)
 ![HTML](https://img.shields.io/badge/html-26222d?style=for-the-badge&logo=html5&logoColor=f2a7c3)
 ![CSS](https://img.shields.io/badge/css-26222d?style=for-the-badge&logo=css&logoColor=f2a7c3)
