@@ -14,8 +14,9 @@ i'm a computer science and business administration student at northeastern who l
 <a href="https://harmonize-tau.vercel.app"><img src="assets/card-harmonize.svg" width="230" alt="Harmonize: Spotify music-taste compatibility app"></a>
 <a href="LINK"><img src="assets/card-stardrinks.svg" width="230" alt="Stardrinks: coffee café finder"></a>
 
-- **harmonize** connects your spotify with a friend's and scores how compatible your music taste is
 - **stardrinks** helps you find local coffee spots and save your favorites
+- **harmonize** connects your spotify with a friend's and scores how compatible your music taste is
+- **wishes** is a wishlist shopping mobile app that is currently in progress...
 
 ### tech stack ⋆｡°✩⋆
 
