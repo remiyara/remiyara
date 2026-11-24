@@ -1,4 +1,4 @@
- #hai there  ♡
+#hai there  ♡
  
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
